@@ -1,0 +1,5 @@
+language: RUBY
+sudo: false
+
+script:
+ - sleep 3
